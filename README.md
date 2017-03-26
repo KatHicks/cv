@@ -2,7 +2,7 @@
 [LinkedIn](https://uk.linkedin.com/in/hickskat) | [Medium](https://medium.com/@katmhicks/) | [Twitter](https://twitter.com/katmhicks)
 
 
-I'm a **full-stack junior software developer** with experience in **Ruby, JavaScript, MVC, SQL, NoSQL, TDD and OOD**. I'm able to offer a collegiate teamwork style, great debugging skills and excellent communication from the get go - and you can rely on me to pick up new concepts or processes quickly and independently.
+I'm a **full-stack junior software developer** with experience in **Ruby, JavaScript, Node, MVC, SQL, NoSQL, TDD and OOD**. I'm able to offer a collegiate teamwork style, great debugging skills and excellent communication from the get go - and you can rely on me to pick up new concepts or processes quickly and independently.
 
 I'm looking to work with **innovative and ambitious people**, **develop my skills and grow as a developer**, and work on **projects that are useful and engaging**. I'm particularly interested in open data, data visualisation and social impact.
 
