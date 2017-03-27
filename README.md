@@ -89,7 +89,7 @@ You can see all my projects on [Github](https://github.com/KatHicks) and more wo
 
 But in particular...
 - **Art** (love wandering around art galleries and sometimes treat myself to gallery memberships)
-- **Travelling** (very proud about my guidebook collection)
+- **Travelling** (very proud of my guidebook collection)
 - **News** (do really care about how we organise ourselves as a society - and like a good debate)
 - **Meditation** (have to admit that there is something to it)
 - **Rollerblading** (did it a lot as a teenager - bit less of a whiz now)
