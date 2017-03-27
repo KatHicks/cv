@@ -16,10 +16,10 @@ You can see all my projects on [Github](https://github.com/KatHicks) and more wo
 
 | Project                                             |Technologies| :smiley:     | :confused:  |
 | :------------------------------------------------- |:------------|:------------|:-----------|
-| [Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)     | Node, Express, MongoDB, JavaScript, jQuery, SVG, CSS, Bootstrap, Mocha, Chai, Zombie, Heroku | We learnt all of these new technologies without any learning materials in under two weeks. | It would be interesting to extend the search feature to use fuzzy matching. |
+| [Developer's Dictionary](https://github.com/KatHicks/developers-dictionary)     | Node, Express, MongoDB, JavaScript, jQuery, SVG, CSS, Bootstrap, Mocha, Chai, Zombie & Heroku | We learnt all of these new technologies without any learning materials in under two weeks. | It would be interesting to extend the search feature to use fuzzy matching. |
 | [FixCity](https://github.com/KatHicks/fix-city)     | Ruby, Rails, PostgreSQL, Google Maps Javascript API, RSpec, Capybara, Sass & Bootstrap | I had the idea for this project and it was really fun to play with filtering many-to-many tags.| It would be great to extend the user model to include admin users. |
 | [MakersBnB](https://github.com/KatHicks/makersbnb)  | Ruby, Sinatra, PostgreSQL, RSpec, Capybara & BCrypt | We figured out how to upload images by ourselves without any gems.      | It would be nice to figure out implementing date ranges in bookings.|
-| [Gabrielle Schwarz](http://gabrielleschwarz.co.uk)  | HTML, CSS, Boostrap | I built this website before enrolling at Makers and figured it all out for myself.      | It would be interesting to add on a content management system.|
+| [Gabrielle Schwarz](http://gabrielleschwarz.co.uk)  | HTML, CSS & Boostrap | I built this website before enrolling at Makers and figured it all out for myself.      | It would be interesting to add on a content management system.|
 
 ---
 
