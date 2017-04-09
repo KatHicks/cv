@@ -49,7 +49,7 @@ You can see all my projects on [Github](https://github.com/KatHicks) and more wo
 
 > ### Education
 
-**[Makers Academy](http://www.makersacademy.com/) (January - March 2016)**
+**[Makers Academy](http://www.makersacademy.com/) (January - March 2017)**
 * 12-week intensive software development bootcamp that focuses on OOD, TDD, XP values and software craftsmanship
 * Worked with Ruby, JavaScript, Ruby on Rails, Sinatra, RSpec, Jasmine, Capybara, PostgreSQL, jQuery and HTML/CSS
 * Demanded independent learning, keen problem-solving and grit
