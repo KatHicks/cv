@@ -56,11 +56,12 @@ You can see all my projects on [Github](https://github.com/KatHicks) and more wo
 
 
 **[University of Cambridge, King's College](http://www.kings.cam.ac.uk/) (BA (Hons) Geography, First Class | October 2011 - June 2014)**
-* Dissertation entitled “*Technology and Space: Exploring how smartphones mediate urban experiences*”. Collected geospatial data through the Twitter API using software developed at University College London and analysed the data in ArcGIS 10.0.
+* Dissertation entitled “*Technology and Space: Exploring how smartphones mediate urban experiences*”
+* Collected geospatial data through the Twitter API using software developed at University College London and analysed the data in ArcGIS 10.0
 
 
 **[University of the Arts London, Camberwell College of Arts](http://www.arts.ac.uk/camberwell/) (Foundation Diploma in Art and Design, Merit | September 2010 - April 2011)**
-* Undertook a foundation diploma in art and design before taking up my place at Cambridge.
+* Undertook a foundation diploma in art and design before taking up my place at Cambridge
 
 
 **Other**
